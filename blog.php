@@ -9,7 +9,7 @@
             <div class="bi-breadcrumbs-content headline ul-li text-center">
                 <h2>Blog & News</h2>
                 <ul>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Blog & News</li>
                 </ul>
             </div>
@@ -20,7 +20,7 @@
 
     <!-- Start of Blog Feed section
 	============================================= -->
-    <section id="bi-blog-feed-1" class="bi-blog-feed-section-1 inner-page-padding">
+    <section id="bi-blog-feed-1" class="bi-blog-feed-section-1 inner-page-padding" style="background-color:white">
         <div class="container">
             <div class="bi-section-title-1 text-center headline pera-content">
                 <div class="bi-subtitle text-uppercase wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1000ms">
@@ -46,7 +46,7 @@
                                 <div class="bi-blog-text">
                                     <h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
                                     <div class="bins-text">
-                                        <p>
+                                        <p style="color:black">
                                             No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again.
                                         </p>
                                     </div>
@@ -68,7 +68,7 @@
                                 <div class="bi-blog-text">
                                     <h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
                                     <div class="bins-text">
-                                        <p>
+                                        <p style="color:black">
                                             No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again.
                                         </p>
                                     </div>
@@ -100,7 +100,7 @@
                                 <div class="bi-blog-text">
                                     <h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
                                     <div class="bins-text">
-                                        <p>
+                                        <p style="color:black">
                                             No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again.
                                         </p>
                                     </div>
@@ -122,7 +122,7 @@
                                 <div class="bi-blog-text">
                                     <h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
                                     <div class="bins-text">
-                                        <p>
+                                        <p style="color:black">
                                             No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again.
                                         </p>
                                     </div>
@@ -154,7 +154,7 @@
                                 <div class="bi-blog-text">
                                     <h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
                                     <div class="bins-text">
-                                        <p>
+                                        <p style="color:black">
                                             No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again.
                                         </p>
                                     </div>
@@ -176,7 +176,7 @@
                                 <div class="bi-blog-text">
                                     <h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
                                     <div class="bins-text">
-                                        <p>
+                                        <p style="color:black">
                                             No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again.
                                         </p>
                                     </div>
@@ -195,13 +195,13 @@
                 </div>
             </div>
             <div class="bi-pagination text-center ul-li">
-                <ul>
+                <!-- <ul>
                     <li><a href="#"><i class="fal fa-chevron-double-left"></i></a></li>
                     <li><a href="#">1</a></li>
                     <li><a href="#">2</a></li>
                     <li><a href="#">3</a></li>
                     <li><a href="#"><i class="fal fa-chevron-double-right"></i></a></li>
-                </ul>
+                </ul> -->
             </div>
         </div>
     </section>

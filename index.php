@@ -13,7 +13,7 @@
                                 <strong>Services</strong>
                             </h1>
                             <div class="bi-slider-text">
-                                <p>Lorem ipsum dolor sit amet consectetur. Eu sit eros proin quisque est. Quis quis tortor nulla at. Molestie risus porttitor nec enim ac viverra.</p>
+                                <p>At Rajz Business Services Chennai, we are your strategic partner in navigating the dynamic digital landscape.</p>
                                 <div class="bi-btn-4 text-uppercase">
                                     <a href="contact.html">get started <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
                                 </div>
@@ -46,7 +46,7 @@
                                 <strong>Agen<b>cy</b></strong>
                             </h1>
                             <div class="bi-slider-text">
-                                <p>Lorem ipsum dolor sit amet consectetur. Eu sit eros proin quisque est. Quis quis tortor nulla at. Molestie risus porttitor nec enim ac viverra.</p>
+                                <p> Our mission is to empower your business with cutting-edge digital marketing and web design solutions that drive growth, enhance your online presence, and convert your audience into loyal customers.</p>
                                 <div class="bi-btn-4 text-uppercase">
                                     <a href="contact.html">get started <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
                                 </div>
@@ -79,7 +79,7 @@
                                 <strong>Agen <b>cy</b></strong>
                             </h1>
                             <div class="bi-slider-text">
-                                <p>Lorem ipsum dolor sit amet consectetur. Eu sit eros proin quisque est. Quis quis tortor nulla at. Molestie risus porttitor nec enim ac viverra.</p>
+                                <p>Explore our comprehensive services and discover how we can elevate your brand.</p>
                                 <div class="bi-btn-4 text-uppercase">
                                     <a href="contact.html">get started <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
                                 </div>
@@ -124,7 +124,7 @@
                                 <img src="assets/img/about/ab1.png" alt="">
                             </div>
                             <div class="about-img2 position-absolute wow fadeInRight" data-wow-delay="500ms" data-wow-duration="1000ms">
-                                <img src="assets/img/about/ab2.png" alt="">
+                                <img src="assets/img/about/ab1.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -137,8 +137,8 @@
                                 <h2 class="tx-split-text split-in-right">We Provide Best Design Solution in City</h2>
                             </div>
                             <div class="bi-about-text-area-4 bins-text">
-                                <p>In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl tempus lobortis. Nunc in nisi sapien. Suspendisse finibus dolo et pharetra porta. Sed quam elit, lacinia vitae mi quis, ullamcorper imperdiet
-                                    dolor. </p>
+                                <p>At Rajz Business Services Pvt Ltd, based in Chennai, we are dedicated to transforming businesses through innovative technology and strategic IT solutions. Our goal is to not only enhance your technological capabilities but also drive substantial growth and efficiency in today’s competitive market.
+                                </p>
                                 <div class="bi-abut-feature-list-4 ul-li wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
                                     <ul>
                                         <li><i class="fal fa-users"></i> Dedicated Team</li>
@@ -302,8 +302,10 @@
                                         <div class="sub-title position-relative pera-content text-uppercase wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1000ms">
                                             Why choose us
                                         </div>
-                                        <h2 class="tx-split-text split-in-right">Experts Services to Change Business</h2>
-                                        <p>In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl tempus lobortis. Nunc in nisi sapien. Suspendisse finibus dolo et pharetra porta. Sed quam elit, lacinia vitae mi quis,</p>
+                                        <h2 class="tx-split-text split-in-right">Your Trusted Partner for Business Success
+                                        </h2>
+                                        <p>At Rajz Business Services, we pride ourselves on being a reliable partner dedicated to your success. For over a decade, we've built lasting relationships with our clients through trust, transparency, and outstanding service. Our proven track record in digital marketing, graphic design, website design, and web development underscores our commitment to delivering exceptional results.
+                                        </p>
                                     </div>
                                     <div class="bi-why-choose-feature ul-li wow fadeInRight" data-wow-delay="300ms" data-wow-duration="1000ms">
                                         <ul>
@@ -328,31 +330,14 @@
                                 <div class="bi-why-choose-text_2">
                                     <div class="bi-section-title-4 headline bins-text">
                                         <div class="sub-title position-relative pera-content text-uppercase wow fadeInRight" data-wow-delay="300ms" data-wow-duration="1000ms">
-                                            Our Experiences
+                                        Leading Business Solutions
                                         </div>
-                                        <h2 class="tx-split-text split-in-right">Leading Online Market Development Company</h2>
-                                        <p>In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl tempus lobortis. Nunc in nisi sapien. Suspendisse finibus dolo et pharetra porta. Sed quam elit, lacinia vitae mi quis,</p>
+                                        <h2 class="tx-split-text split-in-right">Experience the Difference with Rajz Business Services
+                                        </h2>
+                                        <p>IPartner with Rajz Business Services and experience the difference of a committed partner who genuinely cares about your success. Our comprehensive business solutions are designed to elevate your business and drive exceptional results.
+                                        </p>
                                     </div>
-                                    <div class="bi-why-choose-skill-area">
-                                        <div class="skill-set-percent headline">
-                                            <h4>UI/UX Design</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" data-percent="92"></div>
-                                            </div>
-                                        </div>
-                                        <div class="skill-set-percent headline">
-                                            <h4>Web Development</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" data-percent="85"></div>
-                                            </div>
-                                        </div>
-                                        <div class="skill-set-percent headline">
-                                            <h4>Marketing & Branding</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" data-percent="85"></div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                   
                                     <div class="bi-btn-4 text-uppercase">
                                         <a href="about.html">About Us <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
                                     </div>

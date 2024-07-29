@@ -46,7 +46,8 @@
                             <div class="about-widget">
                                 <h3>Working Together Ideas come to life</h3>
                                 <p>
-                                    No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process
+                                At Rajz Business Services, we believe in bringing your ideas to life, no matter the size of your company. As you expand and reach new heights, you need an agency that has your back. 
+
                                 </p>
                             </div>
                         </div>
@@ -54,14 +55,10 @@
                     <div class="col-lg-2">
                         <div class="bi-footer-widget headline pera-content ul-li-block">
                             <div class="menu-widget">
-                                <h3 class="widget-title">UI Design</h3>
+                                <h3 class="widget-title">Email</h3>
                                 <ul>
-                                    <li><a href="#">Estimation</a></li>
-                                    <li><a href="#">Research</a></li>
-                                    <li><a href="#">Storyboard</a></li>
-                                    <li><a href="#">User Flow</a></li>
-                                    <li><a href="#">Information </a></li>
-                                    <li><a href="#">Storyboard (IA)</a></li>
+                                    <li><a href="#">info@rajzbusiness.com</a></li>
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -69,13 +66,11 @@
                     <div class="col-lg-3">
                         <div class="bi-footer-widget headline pera-content ul-li-block">
                             <div class="menu-widget">
-                                <h3 class="widget-title">Development</h3>
+                                <h3 class="widget-title">Phone Number</h3>
                                 <ul>
-                                    <li><a href="#">Front End (HTML, CSS, React)</a></li>
-                                    <li><a href="#">Backend (Node.js, MongoDB)</a></li>
-                                    <li><a href="#">iOS (Swift)</a></li>
-                                    <li><a href="#">Android (Kotlin, Flutter)</a></li>
-                                    <li><a href="#">Post Delivery Support</a></li>
+                                    
+                                    <li><a href="#">
+                                    +91 86103 16677</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -83,14 +78,12 @@
                     <div class="col-lg-2">
                         <div class="bi-footer-widget headline pera-content ul-li-block">
                             <div class="menu-widget">
-                                <h3 class="widget-title">UI Design</h3>
+                                <h3 class="widget-title">Address</h3>
                                 <ul>
-                                    <li><a href="#">Define Idea</a></li>
-                                    <li><a href="#">Target Audience</a></li>
-                                    <li><a href="#">Idea Validation</a></li>
-                                    <li><a href="#">Customer Value </a></li>
-                                    <li><a href="#">Build MVP Version</a></li>
-                                    <li><a href="#">Competitor Reserach</a></li>
+                                   
+                                    <li><a href="#">3rd Floor,AKSHAYA HQ, OMR, Kazhipattur,Siruseri,Tamil Nadu 603103</a></li>
+                                    
+                                  
                                 </ul>
                             </div>
                         </div>

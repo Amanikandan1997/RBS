@@ -149,7 +149,7 @@
                                 <li class="dropdown">
                                     <a href="!#">SEM - Search Engine Marketing</a>
                                     <ul class="dropdown-menu clearfix">
-                                        <li><a href="#" target="_blank">Google Adwords</a></li>
+                                        <li><a href="service.php" target="_blank">Google Adwords</a></li>
                                         <li><a href="#" target="_blank">SMM Social Media Marketing</a></li>
                                         <li><a href="#" target="_blank">SEO Search Engine Optimization</a></li>
                                         <li><a href="#" target="_blank">Google Bussiness Listing</a></li>
@@ -228,7 +228,7 @@
                                
                             </ul>
                         </li>
-                        <li><a href="#" target="_blank">Contact</a></li>
+                        <li><a href="contact.php" target="_blank">Contact</a></li>
                        
                        
                     </ul>
