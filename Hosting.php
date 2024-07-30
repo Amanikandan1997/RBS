@@ -7,10 +7,10 @@
         <div class="background_overlay"></div>
         <div class="container">
             <div class="bi-breadcrumbs-content headline ul-li text-center">
-                <h2>Our Mission</h2>
+                <h2>Hosting Server</h2>
                 <ul>
                     <li><a href="index.php">Home</a></li>
-                    <li>Our Mission</li>
+                    <li>Hosting Server</li>
                 </ul>
             </div>
         </div>
@@ -27,10 +27,10 @@
                     <div class="col-lg-12">
                         <div class="bi-service-details-text-area">
                             <div class="bi-service-details-img">
-                            <img src="assets/img/service/seo.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;">
+                                <img src="assets/img/service/serd1.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;">
                             </div>
                             <div class="bi-service-details-text headline pera-content">
-                                <h3>Our Mission</h3>
+                                <h3>Hosting Server</h3>
                                 <p style="color:black">orem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a libero maximus, rhoncus ex vel, suscipit velit. Donec in interdum nisl. Curabitur fringilla turpis sed nulla auctor, laoreet mollis sem maximus. Suspendisse
                                 laoreet feugiat accumsan. Sed mollis, augue a </p>
                                 <p style="color:black">Suspendisse a libero maximus, rhoncus ex vel, suscipit velit. Donec in interdum nisl. Curabitur fringilla turpis sed nulla auctor, laoreet mollis sem maximus. Suspendisse laoreet feugiat accumsan. Sed mollis, augue a ultrices
@@ -158,7 +158,7 @@
                             </div>
                         </div>
                     </div>
-                   
+                    
                 </div>
             </div>
         </div>

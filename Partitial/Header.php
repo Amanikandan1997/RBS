@@ -37,7 +37,7 @@
             <div class="bi-header-main-navigation">
                 <nav class="main-navigation clearfix ul-li">
                     <ul id="main-nav" class="nav navbar-nav clearfix">
-                        <li><a href="index.php" target="_blank">Home</a></li>
+                        <li><a href="index.php" >Home</a></li>
                             
                             <ul class="dropdown-menu clearfix">
                                 <li>
@@ -49,8 +49,8 @@
                                                         <div class="hap-megamenu-item-btn position-relative">
                                                             <img src="assets/img/pages/home5.jpg" alt="">
                                                             <div class="hap-menu-btn-grp text-center">
-                                                                <a target="_blank" href="index-5.html">Multi Page</a>
-                                                                <a target="_blank" href="#">One Page</a>
+                                                                <a  href="index-5.html">Multi Page</a>
+                                                                <a  href="#">One Page</a>
                                                             </div>
                                                         </div>
                                                         <h3>Web Agency</h3>
@@ -61,8 +61,8 @@
                                                         <div class="hap-megamenu-item-btn position-relative">
                                                             <img src="assets/img/pages/home1.jpg" alt="">
                                                             <div class="hap-menu-btn-grp text-center">
-                                                                <a target="_blank" href="index-1.html">Multi Page</a>
-                                                                <a target="_blank" href="index-1.1.html">One Page</a>
+                                                                <a  href="index-1.html">Multi Page</a>
+                                                                <a  href="index-1.1.html">One Page</a>
                                                             </div>
                                                         </div>
                                                         <h3>Personal Portfolio</h3>
@@ -73,8 +73,8 @@
                                                         <div class="hap-megamenu-item-btn position-relative">
                                                             <img src="assets/img/pages/home2.jpg" alt="">
                                                             <div class="hap-menu-btn-grp text-center">
-                                                                <a target="_blank" href="index-2.html">Multi Page</a>
-                                                                <a target="_blank" href="index-2.1.html">One Page</a>
+                                                                <a  href="index-2.html">Multi Page</a>
+                                                                <a  href="index-2.1.html">One Page</a>
                                                             </div>
                                                         </div>
                                                         <h3>Creative Agency</h3>
@@ -85,8 +85,8 @@
                                                         <div class="hap-megamenu-item-btn position-relative">
                                                             <img src="assets/img/pages/home3.jpg" alt="">
                                                             <div class="hap-menu-btn-grp text-center">
-                                                                <a target="_blank" href="index-3.html">Multi Page</a>
-                                                                <a target="_blank" href="index-3.1.html">One Page</a>
+                                                                <a  href="index-3.html">Multi Page</a>
+                                                                <a  href="index-3.1.html">One Page</a>
                                                             </div>
                                                         </div>
                                                         <h3>Creative Web Agency</h3>
@@ -97,8 +97,8 @@
                                                         <div class="hap-megamenu-item-btn position-relative">
                                                             <img src="assets/img/pages/home4.jpg" alt="">
                                                             <div class="hap-menu-btn-grp text-center">
-                                                                <a target="_blank" href="index-4.html">Multi Page</a>
-                                                                <a target="_blank" href="index-4.1.html">One Page</a>
+                                                                <a  href="index-4.html">Multi Page</a>
+                                                                <a  href="index-4.1.html">One Page</a>
                                                             </div>
                                                         </div>
                                                         <h3>Digital Web Agency</h3>
@@ -109,8 +109,8 @@
                                                         <div class="hap-megamenu-item-btn position-relative">
                                                             <img src="assets/img/pages/home6.jpg" alt="">
                                                             <div class="hap-menu-btn-grp text-center">
-                                                                <a target="_blank" href="index-6.html">Multi Page</a>
-                                                                <a target="_blank" href="index-6.1.html">One Page</a>
+                                                                <a  href="index-6.html">Multi Page</a>
+                                                                <a  href="index-6.1.html">One Page</a>
                                                             </div>
                                                         </div>
                                                         <h3>Business Agency</h3>
@@ -121,8 +121,8 @@
                                                         <div class="hap-megamenu-item-btn position-relative">
                                                             <img src="assets/img/pages/home7.jpg" alt="">
                                                             <div class="hap-menu-btn-grp text-center">
-                                                                <a target="_blank" href="index-7.html">Multi Page</a>
-                                                                <a target="_blank" href="index-7.1.html">One Page</a>
+                                                                <a  href="index-7.html">Multi Page</a>
+                                                                <a  href="index-7.1.html">One Page</a>
                                                             </div>
                                                         </div>
                                                         <h3>Digital Agency</h3>
@@ -137,9 +137,11 @@
                         <li class="dropdown">
                             <a href="!#">Profile</a>
                             <ul class="dropdown-menu clearfix">
-                                <li><a href="about.php" target="_blank">About</a></li>
-                                <li><a href="Mission.php" target="_blank">Mission</a></li>
-                                <li><a href="Vision.php" target="_blank">Vision</a></li>
+                                <li><a href="about.php" >About</a></li>
+                                <li><a href="blog.php" >Blog</a></li>
+                                <li><a href="service.php" >Services</a></li>
+                                <li><a href="Mission.php" >Mission</a></li>
+                                <li><a href="Vision.php" >Vision</a></li>
                                 
                             </ul>
                         </li>
@@ -149,18 +151,18 @@
                                 <li class="dropdown">
                                     <a href="!#">SEM - Search Engine Marketing</a>
                                     <ul class="dropdown-menu clearfix">
-                                        <li><a href="service.php" target="_blank">Google Adwords</a></li>
-                                        <li><a href="#" target="_blank">SMM Social Media Marketing</a></li>
-                                        <li><a href="#" target="_blank">SEO Search Engine Optimization</a></li>
-                                        <li><a href="#" target="_blank">Google Bussiness Listing</a></li>
-                                        <li><a href="#" target="_blank">Domain Registration</a></li>
-                                        <li><a href="#" target="_blank">Hosting Server</a></li>
-                                        <li><a href="#" target="_blank">Email Marketing</a></li>
-                                        <li><a href="#" target="_blank">Sms Marketing</a></li>
-                                        <li><a href="#" target="_blank">Whatsapp Marketing</a></li>
-                                        <li><a href="#" target="_blank">Network Ads</a></li>
-                                        <li><a href="#" target="_blank">Google Suite</a></li>
-                                        <li><a href="#" target="_blank">Google Adssense</a></li>
+                                        <li><a href="GoogleAdwords.php" >Google Adwords</a></li>
+                                        <li><a href="SMM.php">SMM Social Media Marketing</a></li>
+                                        <li><a href="SEO.php" >SEO Search Engine Optimization</a></li>
+                                        <li><a href="GBL.php">Google Bussiness Listing</a></li>
+                                        <li><a href="Domain.php" >Domain Registration</a></li>
+                                        <li><a href="Hosting.php" >Hosting Server</a></li>
+                                        <li><a href="Email.php" >Email Marketing</a></li>
+                                        <li><a href="Sms.php" >Sms Marketing</a></li>
+                                        <li><a href="wts.php" >Whatsapp Marketing</a></li>
+                                        <li><a href="net.php" >Network Ads</a></li>
+                                        <li><a href="gs.php" >Google Suite</a></li>
+                                        <li><a href="gas.php" >Google Adssense</a></li>
                                         
 
 
@@ -174,13 +176,13 @@
                         <li class="dropdown">
                             <a href="!#">Graphic Design</a>
                             <ul class="dropdown-menu clearfix">
-                                <li><a href="blog.php" target="_blank">Logo Designing </a></li>
-                                <li><a href="#" target="_blank">Visiting Cards Designing</a></li>
-                                <li><a href="#" target="_blank">Letterhead Designing</a></li>
-                                <li><a href="#" target="_blank">Broucher Designing</a></li>
-                                <li><a href="#" target="_blank">Pamphlet Designing</a></li>
-                                <li><a href="#" target="_blank">Handbill designing</a></li>
-                                <li><a href="#" target="_blank">Catalogue Designing</a></li>
+                                <li><a href="blog.php" >Logo Designing </a></li>
+                                <li><a href="#" >Visiting Cards Designing</a></li>
+                                <li><a href="#" >Letterhead Designing</a></li>
+                                <li><a href="#" >Broucher Designing</a></li>
+                                <li><a href="#" >Pamphlet Designing</a></li>
+                                <li><a href="#" >Handbill designing</a></li>
+                                <li><a href="#" >Catalogue Designing</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -190,11 +192,11 @@
                                 <li class="dropdown">
                                     <a href="!#">Website Design</a>
                                     <ul class="dropdown-menu clearfix">
-                                        <li><a href="#" target="_blank">Static Website</a></li>
-                                        <li><a href="#" target="_blank">Dynamic Website</a></li>
-                                        <li><a href="#" target="_blank">Responsive Website</a></li>
-                                        <li><a href="#" target="_blank">Redesign Website</a></li>
-                                        <li><a href="#" target="_blank">Website Maintenance</a></li>
+                                        <li><a href="static.php" >Static Website</a></li>
+                                        <li><a href="dynamic.php" >Dynamic Website</a></li>
+                                        <li><a href="responsive.php" >Responsive Website</a></li>
+                                        <li><a href="redesign.php">Redesign Website</a></li>
+                                        <li><a href="maintenance.php" >Website Maintenance</a></li>
                                         
                                         
 
@@ -204,31 +206,31 @@
                                 <li class="dropdown">
                                     <a href="!#">Website Development</a>
                                     <ul class="dropdown-menu clearfix">
-                                        <li><a href="#" target="_blank">Portal Development</a></li>
-                                        <li><a href="#" target="_blank">Classified Website Development</a></li>
-                                        <li><a href="#" target="_blank">E-Commerce Website</a></li>
-                                        <li><a href="#" target="_blank">CMS Development</a></li>
-                                        <li><a href="#" target="_blank">Drupal Website</a></li>
-                                        <li><a href="#" target="_blank">Joomla Website</a></li>
-                                        <li><a href="#" target="_blank">PHP Website</a></li>
-                                        <li><a href="#" target="_blank">Drupal Website</a></li>
+                                        <li><a href="#" >Portal Development</a></li>
+                                        <li><a href="#" >Classified Website Development</a></li>
+                                        <li><a href="#" >E-Commerce Website</a></li>
+                                        <li><a href="#" >CMS Development</a></li>
+                                        <li><a href="#" >Drupal Website</a></li>
+                                        <li><a href="#" >Joomla Website</a></li>
+                                        <li><a href="#" >PHP Website</a></li>
+                                        <li><a href="#" >Drupal Website</a></li>
                                         
                                         
 
 
                                     </ul>
                                     <li class="dropdown">
-                                        <a href="!#">Content Writing</a>
+                                        <a href="Content.php">Content Writing</a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="!#">Content Management</a>
+                                        <a href="Content2.php">Content Management</a>
                                     </li>
                                     
                                 </li>
                                
                             </ul>
                         </li>
-                        <li><a href="contact.php" target="_blank">Contact</a></li>
+                        <li><a href="contact.php" >Contact</a></li>
                        
                        
                     </ul>
@@ -257,7 +259,7 @@
                     </div>
                     <nav class="mobile-main-navigation  clearfix ul-li">
                         <ul id="main-nav" class="nav navbar-nav clearfix">
-                            <li><a href="index.php" target="_blank">Home</a></li>
+                            <li><a href="index.php" >Home</a></li>
                                 
                                 <ul class="dropdown-menu clearfix">
                                     <li>
@@ -269,8 +271,8 @@
                                                             <div class="hap-megamenu-item-btn position-relative">
                                                                 <img src="assets/img/pages/home5.jpg" alt="">
                                                                 <div class="hap-menu-btn-grp text-center">
-                                                                    <a target="_blank" href="index-5.html">Multi Page</a>
-                                                                    <a target="_blank" href="#">One Page</a>
+                                                                    <a  href="index-5.html">Multi Page</a>
+                                                                    <a  href="#">One Page</a>
                                                                 </div>
                                                             </div>
                                                             <h3>Web Agency</h3>
@@ -281,8 +283,8 @@
                                                             <div class="hap-megamenu-item-btn position-relative">
                                                                 <img src="assets/img/pages/home1.jpg" alt="">
                                                                 <div class="hap-menu-btn-grp text-center">
-                                                                    <a target="_blank" href="index-1.html">Multi Page</a>
-                                                                    <a target="_blank" href="index-1.1.html">One Page</a>
+                                                                    <a  href="index-1.html">Multi Page</a>
+                                                                    <a  href="index-1.1.html">One Page</a>
                                                                 </div>
                                                             </div>
                                                             <h3>Personal Portfolio</h3>
@@ -293,8 +295,8 @@
                                                             <div class="hap-megamenu-item-btn position-relative">
                                                                 <img src="assets/img/pages/home2.jpg" alt="">
                                                                 <div class="hap-menu-btn-grp text-center">
-                                                                    <a target="_blank" href="index-2.html">Multi Page</a>
-                                                                    <a target="_blank" href="index-2.1.html">One Page</a>
+                                                                    <a  href="index-2.html">Multi Page</a>
+                                                                    <a  href="index-2.1.html">One Page</a>
                                                                 </div>
                                                             </div>
                                                             <h3>Creative Agency</h3>
@@ -305,8 +307,8 @@
                                                             <div class="hap-megamenu-item-btn position-relative">
                                                                 <img src="assets/img/pages/home3.jpg" alt="">
                                                                 <div class="hap-menu-btn-grp text-center">
-                                                                    <a target="_blank" href="index-3.html">Multi Page</a>
-                                                                    <a target="_blank" href="index-3.1.html">One Page</a>
+                                                                    <a  href="index-3.html">Multi Page</a>
+                                                                    <a  href="index-3.1.html">One Page</a>
                                                                 </div>
                                                             </div>
                                                             <h3>Creative Web Agency</h3>
@@ -317,8 +319,8 @@
                                                             <div class="hap-megamenu-item-btn position-relative">
                                                                 <img src="assets/img/pages/home4.jpg" alt="">
                                                                 <div class="hap-menu-btn-grp text-center">
-                                                                    <a target="_blank" href="index-4.html">Multi Page</a>
-                                                                    <a target="_blank" href="index-4.1.html">One Page</a>
+                                                                    <a  href="index-4.html">Multi Page</a>
+                                                                    <a  href="index-4.1.html">One Page</a>
                                                                 </div>
                                                             </div>
                                                             <h3>Digital Web Agency</h3>
@@ -329,8 +331,8 @@
                                                             <div class="hap-megamenu-item-btn position-relative">
                                                                 <img src="assets/img/pages/home6.jpg" alt="">
                                                                 <div class="hap-menu-btn-grp text-center">
-                                                                    <a target="_blank" href="index-6.html">Multi Page</a>
-                                                                    <a target="_blank" href="index-6.1.html">One Page</a>
+                                                                    <a  href="index-6.html">Multi Page</a>
+                                                                    <a  href="index-6.1.html">One Page</a>
                                                                 </div>
                                                             </div>
                                                             <h3>Business Agency</h3>
@@ -341,8 +343,8 @@
                                                             <div class="hap-megamenu-item-btn position-relative">
                                                                 <img src="assets/img/pages/home7.jpg" alt="">
                                                                 <div class="hap-menu-btn-grp text-center">
-                                                                    <a target="_blank" href="index-7.html">Multi Page</a>
-                                                                    <a target="_blank" href="index-7.1.html">One Page</a>
+                                                                    <a  href="index-7.html">Multi Page</a>
+                                                                    <a  href="index-7.1.html">One Page</a>
                                                                 </div>
                                                             </div>
                                                             <h3>Digital Agency</h3>
@@ -357,9 +359,11 @@
                             <li class="dropdown">
                                 <a href="!#">Profile</a>
                                 <ul class="dropdown-menu clearfix">
-                                    <li><a href="About.html" target="_blank">About</a></li>
-                                    <li><a href="Mission.html" target="_blank">Mission</a></li>
-                                    <li><a href="Vision.html" target="_blank">Vision</a></li>
+                                    <li><a href="about.php" >About</a></li>
+                                    <li><a href="service.php" >Services</a></li>
+                                    <li><a href="blog.php" >Blog</a></li>
+                                    <li><a href="Mission.php" >Mission</a></li>
+                                    <li><a href="Vision.php" >Vision</a></li>
                                     
                                 </ul>
                             </li>
@@ -369,18 +373,18 @@
                                     <li class="dropdown">
                                         <a href="!#">SEM - Search Engine Marketing</a>
                                         <ul class="dropdown-menu clearfix">
-                                            <li><a href="#" target="_blank">Google Adwords</a></li>
-                                            <li><a href="#" target="_blank">SMM Social Media Marketing</a></li>
-                                            <li><a href="#" target="_blank">SEO Search Engine Optimization</a></li>
-                                            <li><a href="#" target="_blank">Google Bussiness Listing</a></li>
-                                            <li><a href="#" target="_blank">Domain Registration</a></li>
-                                            <li><a href="#" target="_blank">Hosting Server</a></li>
-                                            <li><a href="#" target="_blank">Email Marketing</a></li>
-                                            <li><a href="#" target="_blank">Sms Marketing</a></li>
-                                            <li><a href="#" target="_blank">Whatsapp Marketing</a></li>
-                                            <li><a href="#" target="_blank">Network Ads</a></li>
-                                            <li><a href="#" target="_blank">Google Suite</a></li>
-                                            <li><a href="#" target="_blank">Google Adssense</a></li>
+                                        <li><a href="GoogleAdwords.php" >Google Adwords</a></li>
+                                        <li><a href="SMM.php">SMM Social Media Marketing</a></li>
+                                        <li><a href="SEO.php" >SEO Search Engine Optimization</a></li>
+                                        <li><a href="GBL.php">Google Bussiness Listing</a></li>
+                                        <li><a href="Domain.php" >Domain Registration</a></li>
+                                        <li><a href="Hosting.php" >Hosting Server</a></li>
+                                        <li><a href="Email.php" >Email Marketing</a></li>
+                                        <li><a href="Sms.php" >Sms Marketing</a></li>
+                                        <li><a href="wts.php" >Whatsapp Marketing</a></li>
+                                        <li><a href="net.php" >Network Ads</a></li>
+                                        <li><a href="gs.php" >Google Suite</a></li>
+                                        <li><a href="gas.php" >Google Adssense</a></li>
                                             
     
     
@@ -394,13 +398,13 @@
                             <li class="dropdown">
                                 <a href="!#">Graphic Design</a>
                                 <ul class="dropdown-menu clearfix">
-                                    <li><a href="#" target="_blank">Logo Designing </a></li>
-                                    <li><a href="#" target="_blank">Visiting Cards Designing</a></li>
-                                    <li><a href="#" target="_blank">Letterhead Designing</a></li>
-                                    <li><a href="#" target="_blank">Broucher Designing</a></li>
-                                    <li><a href="#" target="_blank">Pamphlet Designing</a></li>
-                                    <li><a href="#" target="_blank">Handbill designing</a></li>
-                                    <li><a href="#" target="_blank">Catalogue Designing</a></li>
+                                    <li><a href="#" >Logo Designing </a></li>
+                                    <li><a href="#" >Visiting Cards Designing</a></li>
+                                    <li><a href="#" >Letterhead Designing</a></li>
+                                    <li><a href="#" >Broucher Designing</a></li>
+                                    <li><a href="#" >Pamphlet Designing</a></li>
+                                    <li><a href="#" >Handbill designing</a></li>
+                                    <li><a href="#" >Catalogue Designing</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
@@ -410,11 +414,11 @@
                                     <li class="dropdown">
                                         <a href="!#">Website Design</a>
                                         <ul class="dropdown-menu clearfix">
-                                            <li><a href="#" target="_blank">Static Website</a></li>
-                                            <li><a href="#" target="_blank">Dynamic Website</a></li>
-                                            <li><a href="#" target="_blank">Responsive Website</a></li>
-                                            <li><a href="#" target="_blank">Redesign Website</a></li>
-                                            <li><a href="#" target="_blank">Website Maintenance</a></li>
+                                            <li><a href="#" >Static Website</a></li>
+                                            <li><a href="#" >Dynamic Website</a></li>
+                                            <li><a href="#" >Responsive Website</a></li>
+                                            <li><a href="#" >Redesign Website</a></li>
+                                            <li><a href="#" >Website Maintenance</a></li>
                                             
                                             
     
@@ -424,14 +428,14 @@
                                     <li class="dropdown">
                                         <a href="!#">Website Development</a>
                                         <ul class="dropdown-menu clearfix">
-                                            <li><a href="#" target="_blank">Portal Development</a></li>
-                                            <li><a href="#" target="_blank">Classified Website Development</a></li>
-                                            <li><a href="#" target="_blank">E-Commerce Website</a></li>
-                                            <li><a href="#" target="_blank">CMS Development</a></li>
-                                            <li><a href="#" target="_blank">Drupal Website</a></li>
-                                            <li><a href="#" target="_blank">Joomla Website</a></li>
-                                            <li><a href="#" target="_blank">PHP Website</a></li>
-                                            <li><a href="#" target="_blank">Drupal Website</a></li>
+                                            <li><a href="#" >Portal Development</a></li>
+                                            <li><a href="#" >Classified Website Development</a></li>
+                                            <li><a href="#" >E-Commerce Website</a></li>
+                                            <li><a href="#" >CMS Development</a></li>
+                                            <li><a href="#" >Drupal Website</a></li>
+                                            <li><a href="#" >Joomla Website</a></li>
+                                            <li><a href="#" >PHP Website</a></li>
+                                            <li><a href="#" >Drupal Website</a></li>
                                             
                                             
     
@@ -449,7 +453,7 @@
                                 </ul>
                             </li>
                            
-                            <li><a href="#" target="_blank">Contact</a></li>
+                            <li><a href="#" >Contact</a></li>
                            
                         </ul>
                     </nav>

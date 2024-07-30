@@ -121,7 +121,7 @@
                         <div class="bi-about-img-wrapper4 position-relative">
                             <span class="about-circle-shape position-absolute  wow zoomIn" data-wow-delay="500ms" data-wow-duration="1000ms"><img src="assets/img/about/circle1.png" alt=""></span>
                             <div class="about-img1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
-                                <img src="assets/img/about/ab1.png" alt="">
+                                <img src="assets/img/about/ab2.png" alt="">
                             </div>
                             <div class="about-img2 position-absolute wow fadeInRight" data-wow-delay="500ms" data-wow-duration="1000ms">
                                 <img src="assets/img/about/ab1.png" alt="">
@@ -242,9 +242,7 @@
                 <div class="service-img">
                     <img src="assets/img/service/ser2.png" alt="">
                 </div>
-                <div class="service-text headline d-flex position-absolute align-items-center justify-content-between">
-                    <h3><a href="#">3D Animation</a></h3>
-                    <a class="service_more" href="#"> <i class="fas fa-long-arrow-right"></i></a>
+                
                 </div>
             </div>
         </div>

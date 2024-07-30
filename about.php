@@ -185,7 +185,7 @@
                     </p>
                 </div>
                 <div class="bi-btn-1 d-flex justify-content-center bi-btn-area text-uppercase wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1000ms">
-                    <a class="bi-btn-main  bi-btn-hover bi-btn-item" href="#">  <span></span> Get Services</a>
+                    <a class="bi-btn-main  bi-btn-hover bi-btn-item" href="service.php">  <span></span> Get Services</a>
                 </div>
             </div>
         </div>

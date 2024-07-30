@@ -24,13 +24,13 @@
         <div class="container">
             <div class="bi-service-details-content">
                 <div class="row">
-                    <div class="col-lg-8">
+                    <div class="col-lg-12">
                         <div class="bi-service-details-text-area">
                             <div class="bi-service-details-img">
-                                <img src="assets/img/service/serd1.jpg" alt="">
+                            <img src="assets/img/service/seo.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;">
                             </div>
                             <div class="bi-service-details-text headline pera-content">
-                                <h3>Design & Development</h3>
+                                <h3>Our Vision</h3>
                                 <p style="color:black">orem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a libero maximus, rhoncus ex vel, suscipit velit. Donec in interdum nisl. Curabitur fringilla turpis sed nulla auctor, laoreet mollis sem maximus. Suspendisse
                                 laoreet feugiat accumsan. Sed mollis, augue a </p>
                                 <p style="color:black">Suspendisse a libero maximus, rhoncus ex vel, suscipit velit. Donec in interdum nisl. Curabitur fringilla turpis sed nulla auctor, laoreet mollis sem maximus. Suspendisse laoreet feugiat accumsan. Sed mollis, augue a ultrices
@@ -158,51 +158,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="bi-single-sidebar">
-                            <div class="bi-sidebar-widget headline">
-                                <div class="search-widget">
-                                    <h3 class="widget-title">Search</h3>
-                                    <div class="widget-area">
-                                        <form action="#">
-                                            <div class="search-input position-relative">
-                                                <input type="text" name="search" placeholder="Search here...">
-                                                <button><i class="far fa-search"></i></button>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="bi-sidebar-widget headline ul-li-block">
-                                <div class="service-widget">
-                                    <h3 class="widget-title">Main Services</h3>
-                                    <div class="widget-area">
-                                        <ul>
-                                            <li><a href="#">Branding & Art</a></li>
-                                            <li><a href="#">Degital Marketing</a></li>
-                                            <li><a href="#">Web Development</a></li>
-                                            <li><a href="#">Design & Development</a></li>
-                                            <li><a href="#">3D Animation</a></li>
-                                            <li><a href="#">Branding & Illustration</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="bi-sidebar-widget headline ul-li-block">
-                                <div class="add-widget" data-background="assets/img/bg/ad-bg.png">
-                                    <div class="add-widget-area text-center">
-                                        <div class="add-icon d-flex justify-content-center align-items-center">
-                                            <i class="fas fa-phone"></i>
-                                        </div>
-                                        <div class="add-text pera-content">
-                                            <h3>+215 5747 6654</h3>
-                                            <p>Monday – Friday: 7:00 am -8:00 pm24/7 Emergency Service</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>
