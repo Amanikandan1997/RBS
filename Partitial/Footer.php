@@ -57,7 +57,7 @@
                             <div class="menu-widget">
                                 <h3 class="widget-title">Email</h3>
                                 <ul>
-                                    <li><a href="#">info@rajzbusiness.com</a></li>
+                                    <li><a href="mailto:info@rajzbusiness.com">info@rajzbusiness.com</a></li>
                                     
                                 </ul>
                             </div>
@@ -69,7 +69,7 @@
                                 <h3 class="widget-title">Phone Number</h3>
                                 <ul>
                                     
-                                    <li><a href="#">
+                                    <li><a href="tel:+918610316677">
                                     +91 86103 16677</a></li>
                                 </ul>
                             </div>
@@ -81,7 +81,7 @@
                                 <h3 class="widget-title">Address</h3>
                                 <ul>
                                    
-                                    <li><a href="#">3rd Floor,AKSHAYA HQ, OMR, Kazhipattur,Siruseri,Tamil Nadu 603103</a></li>
+                                    <li><a href="https://g.co/kgs/9RokmtV">3rd Floor,AKSHAYA HQ, OMR, Kazhipattur,Siruseri,Tamil Nadu 603103</a></li>
                                     
                                   
                                 </ul>
@@ -96,10 +96,10 @@
                 <div class="bi-footer-social-content ul-li">
                     <ul>
                        
-                        <li><a href="#"><i class="fab fa-linkedin-in"></i> Linked In    </a></li>
-                        <li><a href="#"><i class="fab fa-facebook-f"></i> Facebook  </a></li>
+                        <li><a href="https://www.linkedin.com/in/rajz-business-services-pvt-ltd/"><i class="fab fa-linkedin-in"></i> Linked In    </a></li>
+                        <li><a href="https://www.facebook.com/rajzbusiness"><i class="fab fa-facebook-f"></i> Facebook  </a></li>
                         <li><a href="#"><i class="fab fa-instagram"></i> Instagram  </a></li>
-                        <li><a href="#"><i class="fab fa-youtube"></i> Youtube </a></li>
+                        <li><a href="https://www.youtube.com/channel/UCqjyu6wzBD56FzOGKDx0W3Q"><i class="fab fa-youtube"></i> Youtube </a></li>
                     </ul>
                 </div>
             </div>

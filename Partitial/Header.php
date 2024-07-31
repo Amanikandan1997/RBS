@@ -135,34 +135,34 @@
                             </ul>
                         </li> 
                         <li class="dropdown">
-                            <a href="!#">Profile</a>
+                            <a href="profile.php">Profile</a>
                             <ul class="dropdown-menu clearfix">
                                 <li><a href="about.php" >About</a></li>
-                                <li><a href="blog.php" >Blog</a></li>
-                                <li><a href="service.php" >Services</a></li>
+                                <!-- <li><a href="blog.php" >Blog</a></li>
+                                <li><a href="service.php" >Services</a></li> -->
                                 <li><a href="Mission.php" >Mission</a></li>
                                 <li><a href="Vision.php" >Vision</a></li>
                                 
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="!#">Digital Advertisement</a>
+                        <a href="digital_advertisement.php">Digital Advertisement</a>
                             <ul class="dropdown-menu clearfix">
                                 <li class="dropdown">
-                                    <a href="!#">SEM - Search Engine Marketing</a>
+                                <a href="search_engine_marketing.php">SEM - Search Engine Marketing</a>
                                     <ul class="dropdown-menu clearfix">
-                                        <li><a href="GoogleAdwords.php" >Google Adwords</a></li>
-                                        <li><a href="SMM.php">SMM Social Media Marketing</a></li>
-                                        <li><a href="SEO.php" >SEO Search Engine Optimization</a></li>
-                                        <li><a href="GBL.php">Google Bussiness Listing</a></li>
-                                        <li><a href="Domain.php" >Domain Registration</a></li>
-                                        <li><a href="Hosting.php" >Hosting Server</a></li>
-                                        <li><a href="Email.php" >Email Marketing</a></li>
-                                        <li><a href="Sms.php" >Sms Marketing</a></li>
-                                        <li><a href="wts.php" >Whatsapp Marketing</a></li>
-                                        <li><a href="net.php" >Network Ads</a></li>
-                                        <li><a href="gs.php" >Google Suite</a></li>
-                                        <li><a href="gas.php" >Google Adssense</a></li>
+                                    <li><a href="google_adwords.php" >Google Adwords</a></li>
+                                        <li><a href="social_media_marketing.php">SMM Social Media Marketing</a></li>
+                                        <li><a href="search_engine_marketing.php" >SEO Search Engine Optimization</a></li>
+                                        <li><a href="google_bussiness_listing.php">Google Bussiness Listing</a></li>
+                                        <li><a href="domain_registration.php" >Domain Registration</a></li>
+                                        <li><a href="hosting_server.php" >Hosting Server</a></li>
+                                        <li><a href="email_marketing.php" >Email Marketing</a></li>
+                                        <li><a href="sms_marketing.php" >Sms Marketing</a></li>
+                                        <li><a href="whatsapp_marketing.php" >Whatsapp Marketing</a></li>
+                                        <li><a href="network_ads.php" >Network Ads</a></li>
+                                        <li><a href="google_suite.php" >Google Suite</a></li>
+                                        <li><a href="google_adsense.php" >Google Adssense</a></li>
                                         
 
 
@@ -174,29 +174,29 @@
 
                      
                         <li class="dropdown">
-                            <a href="!#">Graphic Design</a>
+                            <a href="graphic_design.php">Graphic Design</a>
                             <ul class="dropdown-menu clearfix">
-                                <li><a href="blog.php" >Logo Designing </a></li>
-                                <li><a href="#" >Visiting Cards Designing</a></li>
-                                <li><a href="#" >Letterhead Designing</a></li>
-                                <li><a href="#" >Broucher Designing</a></li>
-                                <li><a href="#" >Pamphlet Designing</a></li>
-                                <li><a href="#" >Handbill designing</a></li>
-                                <li><a href="#" >Catalogue Designing</a></li>
+                            <li><a href="logo_designing.php" >Logo Designing </a></li>
+                                <li><a href="visiting_card_designing.php" >Visiting Cards Designing</a></li>
+                                <li><a href="letterhead_designing.php" >Letterhead Designing</a></li>
+                                <li><a href="broucher_designing.php" >Broucher Designing</a></li>
+                                <li><a href="pamphlet_designing.php" >Pamphlet Designing</a></li>
+                                <li><a href="handbil_designing.php" >Handbill designing</a></li>
+                                <li><a href="catalogue_designing.php" >Catalogue Designing</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="!#">Website Designing</a>
+                            <a href="website_designing.php">Website Designing</a>
                             <ul class="dropdown-menu clearfix">
 
                                 <li class="dropdown">
-                                    <a href="!#">Website Design</a>
+                                    <a href="website_designing.php">Website Design</a>
                                     <ul class="dropdown-menu clearfix">
-                                        <li><a href="static.php" >Static Website</a></li>
-                                        <li><a href="dynamic.php" >Dynamic Website</a></li>
-                                        <li><a href="responsive.php" >Responsive Website</a></li>
-                                        <li><a href="redesign.php">Redesign Website</a></li>
-                                        <li><a href="maintenance.php" >Website Maintenance</a></li>
+                                        <li><a href="static_website.php" >Static Website</a></li>
+                                        <li><a href="dynamic_website.php" >Dynamic Website</a></li>
+                                        <li><a href="responsive_website.php" >Responsive Website</a></li>
+                                        <li><a href="redesign_website.php">Redesign Website</a></li>
+                                        <li><a href="maintenance_website.php" >Website Maintenance</a></li>
                                         
                                         
 
@@ -204,26 +204,24 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="!#">Website Development</a>
+                                    <a href="website_developement.php">Website Development</a>
                                     <ul class="dropdown-menu clearfix">
-                                        <li><a href="#" >Portal Development</a></li>
-                                        <li><a href="#" >Classified Website Development</a></li>
-                                        <li><a href="#" >E-Commerce Website</a></li>
-                                        <li><a href="#" >CMS Development</a></li>
-                                        <li><a href="#" >Drupal Website</a></li>
-                                        <li><a href="#" >Joomla Website</a></li>
-                                        <li><a href="#" >PHP Website</a></li>
-                                        <li><a href="#" >Drupal Website</a></li>
+                                        <li><a href="portal_development.php" >Portal Development</a></li>
+                                        <li><a href="classified_website_development.php" >Classified Website Development</a></li>
+                                        <li><a href="e-commerce_website.php" >E-Commerce Website</a></li>
+                                        <li><a href="cms_development.php" >CMS Development</a></li>
+                                         <li><a href="php_website.php" >PHP Website</a></li>
+                                       
                                         
                                         
 
 
                                     </ul>
                                     <li class="dropdown">
-                                        <a href="Content.php">Content Writing</a>
+                                        <a href="Content_writting.php">Content Writing</a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="Content2.php">Content Management</a>
+                                        <a href="Content_management.php">Content Management</a>
                                     </li>
                                     
                                 </li>
@@ -357,7 +355,7 @@
                                 </ul>
                             </li> 
                             <li class="dropdown">
-                                <a href="!#">Profile</a>
+                            <a href="profile.php">Profile</a>
                                 <ul class="dropdown-menu clearfix">
                                     <li><a href="about.php" >About</a></li>
                                     <li><a href="service.php" >Services</a></li>
@@ -368,23 +366,24 @@
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="!#">Digital Advertisement</a>
+                                <a href="digital_advertisement.php">Digital Advertisement</a>
                                 <ul class="dropdown-menu clearfix">
                                     <li class="dropdown">
-                                        <a href="!#">SEM - Search Engine Marketing</a>
+                                        <a href="search_engine_marketing.php">SEM - Search Engine Marketing</a>
                                         <ul class="dropdown-menu clearfix">
-                                        <li><a href="GoogleAdwords.php" >Google Adwords</a></li>
-                                        <li><a href="SMM.php">SMM Social Media Marketing</a></li>
-                                        <li><a href="SEO.php" >SEO Search Engine Optimization</a></li>
-                                        <li><a href="GBL.php">Google Bussiness Listing</a></li>
-                                        <li><a href="Domain.php" >Domain Registration</a></li>
-                                        <li><a href="Hosting.php" >Hosting Server</a></li>
-                                        <li><a href="Email.php" >Email Marketing</a></li>
-                                        <li><a href="Sms.php" >Sms Marketing</a></li>
-                                        <li><a href="wts.php" >Whatsapp Marketing</a></li>
-                                        <li><a href="net.php" >Network Ads</a></li>
-                                        <li><a href="gs.php" >Google Suite</a></li>
-                                        <li><a href="gas.php" >Google Adssense</a></li>
+                                        <li><a href="google_adwords.php" >Google Adwords</a></li>
+                                        <li><a href="social_media_marketing.php">SMM Social Media Marketing</a></li>
+                                        <li><a href="search_engine_marketing.php" >SEO Search Engine Optimization</a></li>
+                                        <li><a href="google_bussiness_listing.php">Google Bussiness Listing</a></li>
+                                        <li><a href="domain_registration.php" >Domain Registration</a></li>
+                                        <li><a href="domain_registration.php" >Domain Registration</a></li>
+                                        <li><a href="hosting_server.php" >Hosting Server</a></li>
+                                        <li><a href="email_marketing.php" >Email Marketing</a></li>
+                                        <li><a href="sms_marketing.php" >Sms Marketing</a></li>
+                                        <li><a href="whatsapp_marketing.php" >Whatsapp Marketing</a></li>
+                                        <li><a href="network_ads.php" >Network Ads</a></li>
+                                        <li><a href="google_suite.php" >Google Suite</a></li>
+                                        <li><a href="google_adsense.php" >Google Adssense</a></li>
                                             
     
     
@@ -396,29 +395,29 @@
     
                          
                             <li class="dropdown">
-                                <a href="!#">Graphic Design</a>
+                                <a href="graphic_design.php">Graphic Design</a>
                                 <ul class="dropdown-menu clearfix">
-                                    <li><a href="#" >Logo Designing </a></li>
-                                    <li><a href="#" >Visiting Cards Designing</a></li>
-                                    <li><a href="#" >Letterhead Designing</a></li>
-                                    <li><a href="#" >Broucher Designing</a></li>
-                                    <li><a href="#" >Pamphlet Designing</a></li>
-                                    <li><a href="#" >Handbill designing</a></li>
-                                    <li><a href="#" >Catalogue Designing</a></li>
+                                <li><a href="logo_designing.php" >Logo Designing </a></li>
+                                <li><a href="visiting_card_designing.php" >Visiting Cards Designing</a></li>
+                                <li><a href="letterhead_designing.php" >Letterhead Designing</a></li>
+                                <li><a href="broucher_designing.php" >Broucher Designing</a></li>
+                                <li><a href="pamphlet_designing.php" >Pamphlet Designing</a></li>
+                                <li><a href="handbil_designing.php" >Handbill designing</a></li>
+                                <li><a href="catalogue_designing.php" >Catalogue Designing</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="!#">Website Designing</a>
+                                <a href="website_designing.php">Website Designing</a>
                                 <ul class="dropdown-menu clearfix">
     
                                     <li class="dropdown">
-                                        <a href="!#">Website Design</a>
+                                        <a href="website_designing.php">Website Design</a>
                                         <ul class="dropdown-menu clearfix">
-                                            <li><a href="#" >Static Website</a></li>
-                                            <li><a href="#" >Dynamic Website</a></li>
-                                            <li><a href="#" >Responsive Website</a></li>
-                                            <li><a href="#" >Redesign Website</a></li>
-                                            <li><a href="#" >Website Maintenance</a></li>
+                                        <li><a href="static_website.php" >Static Website</a></li>
+                                        <li><a href="dynamic_website.php" >Dynamic Website</a></li>
+                                        <li><a href="responsive_website.php" >Responsive Website</a></li>
+                                        <li><a href="redesign_website.php">Redesign Website</a></li>
+                                        <li><a href="maintenance_website.php" >Website Maintenance</a></li>
                                             
                                             
     
@@ -426,34 +425,30 @@
                                         </ul>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="!#">Website Development</a>
+                                        <a href="website_developement.php">Website Development</a>
                                         <ul class="dropdown-menu clearfix">
-                                            <li><a href="#" >Portal Development</a></li>
-                                            <li><a href="#" >Classified Website Development</a></li>
-                                            <li><a href="#" >E-Commerce Website</a></li>
-                                            <li><a href="#" >CMS Development</a></li>
-                                            <li><a href="#" >Drupal Website</a></li>
-                                            <li><a href="#" >Joomla Website</a></li>
-                                            <li><a href="#" >PHP Website</a></li>
-                                            <li><a href="#" >Drupal Website</a></li>
+                                        <li><a href="portal_development.php" >Portal Development</a></li>
+                                        <li><a href="classified_website_developement.php" >Classified Website Development</a></li>
+                                        <li><a href="e-commerce_website.php" >E-Commerce Website</a></li>
+                                        <li><a href="cms_development.php" >CMS Development</a></li>
+                                         <li><a href="php_website.php" >PHP Website</a></li>
                                             
                                             
     
     
                                         </ul>
                                         <li class="dropdown">
-                                            <a href="!#">Content Writing</a>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a href="!#">Content Management</a>
-                                        </li>
-                                        
+                                        <a href="Content_writting.php">Content Writing</a>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="Content_management.php">Content Management</a>
+                                    </li>
                                     </li>
                                    
                                 </ul>
                             </li>
                            
-                            <li><a href="#" >Contact</a></li>
+                            <li><a href="contact.php" >Contact</a></li>
                            
                         </ul>
                     </nav>
@@ -501,25 +496,8 @@
                             <div class="sidebar-logo">
                                 <a href="#"><img src="assets/img/logo/logo2.png" alt=""></a>
                             </div>
-                            <div class="sidebar-menu ul-li-block">
-                                <ul>
-                                    <li><a href="about.html"><i class="fal fa-home"></i> About Us </a></li>
-                                    <li><a href="service.html"><i class="fal fa-cogs"></i> Service </a></li>
-                                    <li><a href="testimonila.html"><i class="fal fa-comments-alt"></i> Testimonial </a></li>
-                                    <li><a href="team.html"><i class="fal fa-users"></i> Our Team </a></li>
-                                    <li><a href="portfolio.html"><i class="fal fa-briefcase"></i> Portfolio </a></li>
-                                    <li><a href="blog.html"><i class="fal fa-blog"></i> Blog </a></li>
-                                    <li><a href="contact.html"><i class="fal fa-envelope"></i> Contact </a></li>
-                                </ul>
-                            </div>
-                            <div class="sidebar-more-menu text-uppercase d-flex ul-li">
-                                <span>More:</span>
-                                <ul>
-                                    <li><a href="#">My Account </a></li>
-                                    <li><a href="#">Job Apply </a></li>
-                                    <li><a href="#">Privacy Policy </a></li>
-                                </ul>
-                            </div>
+                           
+                           
                             <div class="sidebar-social ul-li-block">
                                 <span>Social:</span>
                                 <ul>
@@ -530,7 +508,7 @@
                                 </ul>
                             </div>
                             <div class="sidebar-copyright text-center">
-                                © Copyright 2024. All Rights Reserved.
+                                © Copyright @  2024 Rajz Bussiness Pvt Ltd . All Rights Reserved.
                             </div>
                         </div>
                     </div>

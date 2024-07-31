@@ -2098,7 +2098,7 @@ progress {
 
 .form-control:focus {
     color: #212529;
-    background-color: #fff;
+    background-color: #070707;
     border-color: #86b7fe;
     outline: 0;
     box-shadow: 0 0 0 .25rem rgba(13, 110, 253, .25)
@@ -2119,7 +2119,7 @@ progress {
 }
 
 .form-control:disabled {
-    background-color: #e9ecef;
+    background-color: #060606;
     opacity: 1
 }
 
@@ -2146,7 +2146,7 @@ progress {
     -webkit-margin-end: .75rem;
     margin-inline-end: .75rem;
     color: #212529;
-    background-color: #e9ecef;
+    background-color: #000000;
     pointer-events: none;
     border-color: inherit;
     border-style: solid;

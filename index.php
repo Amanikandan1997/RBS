@@ -197,7 +197,7 @@
                     <h2 class="tx-split-text split-in-right">Unlock Revenue Grow for you Business</h2>
                 </div>
                 <div class="bi-btn-4 text-uppercase wow fadeInRight" data-wow-delay="300ms" data-wow-duration="1000ms">
-                    <a href="portfolio.html">More Portfolio <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+                    <a href="about.php">More Portfolio <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
                 </div>
             </div>
         </div>
@@ -207,8 +207,8 @@
                     <img src="assets/img/service/ser1.png" alt="">
                 </div>
                 <div class="service-text headline d-flex position-absolute align-items-center justify-content-between">
-                    <h3><a href="#">App Development</a></h3>
-                    <a class="service_more" href="#"> <i class="fas fa-long-arrow-right"></i></a>
+                    <h3><a href="dynamic.php">web Development</a></h3>
+                    <a class="service_more" href="dynamic.php"> <i class="fas fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="bi-service-scroll-item position-relative">
@@ -216,8 +216,8 @@
                     <img src="assets/img/service/ser2.png" alt="">
                 </div>
                 <div class="service-text headline d-flex position-absolute align-items-center justify-content-between">
-                    <h3><a href="#">UI/UX Design</a></h3>
-                    <a class="service_more" href="#"> <i class="fas fa-long-arrow-right"></i></a>
+                    <h3><a href="Design.php">UI/UX Design</a></h3>
+                    <a class="service_more" href="Design.php"> <i class="fas fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="bi-service-scroll-item position-relative">
@@ -225,8 +225,8 @@
                     <img src="assets/img/service/ser3.png" alt="">
                 </div>
                 <div class="service-text headline d-flex position-absolute align-items-center justify-content-between">
-                    <h3><a href="#">Digital Marketing</a></h3>
-                    <a class="service_more" href="#"> <i class="fas fa-long-arrow-right"></i></a>
+                    <h3><a href="digital.php">Digital Ads</a></h3>
+                    <a class="service_more" href="digital.php"> <i class="fas fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="bi-service-scroll-item position-relative">
@@ -392,19 +392,21 @@
                                             Frequently asked questions
                                         </div>
                                         <h2 class="tx-split-text split-in-right">You Are Confused! Question & Answers.</h2>
-                                        <p>In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl tempus lobortis. Nunc in nisi sapien. </p>
+                                        <p> </p>
                                     </div>
                                     <div class="accordion" id="accordionExample_31">
                                         <div class="accordion-item wow fadeInUp faq_bg" data-wow-delay="200ms" data-wow-duration="1000ms">
                                             <h2 class="accordion-header" id="heading10">
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="true" aria-controls="collapse10">
-													<span>	What is Business ?</span>
+													<span>	How can smaller companies stand out against bigger firms in digital marketing?
+                                                    </span>
 												</button>
                                             </h2>
                                             <div id="collapse10" class="accordion-collapse collapse show" aria-labelledby="heading10" data-bs-parent="#accordionExample_31">
                                                 <div class="accordion-body ">
                                                     <div class="bi-faq-text">
-                                                        Lorem ipsum dolor sit amet consectetur. Vel velit tincidunt adipiscing mauri tincidunt nunc et. Tincidunt lectus massa gravida sit placerat. Fermentum morbi viverra accumsan vitae.
+                                                    Small businesses can compete by targeting niche markets, leveraging local SEO, creating personalized customer experiences, and using social media to build community and engagement.
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -412,13 +414,15 @@
                                         <div class="accordion-item wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
                                             <h2 class="accordion-header" id="heading12">
                                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-													<span>Nulla vitae est risus. Aenean aliquam dolor a massa</span>
+													<span>Why is graphic design crucial for any business?
+                                                    </span>
 												</button>
                                             </h2>
                                             <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12" data-bs-parent="#accordionExample_31">
                                                 <div class="accordion-body ">
                                                     <div class="bi-faq-text">
-                                                        Lorem ipsum dolor sit amet consectetur. Vel velit tincidunt adipiscing mauri tincidunt nunc et. Tincidunt lectus massa gravida sit placerat. Fermentum morbi viverra accumsan vitae.
+                                                    Graphic design is vital for businesses as it builds a strong visual identity and clearly communicates key messages. It differentiates the brand from competitors, enhances brand recognition, and engages customers through visually appealing materials. Effective graphic design supports marketing efforts and creates memorable impressions, which attract potential customers and reinforce brand consistency across all platforms.
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -426,14 +430,15 @@
                                         <div class="accordion-item wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1000ms">
                                             <h2 class="accordion-header" id="heading13">
                                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-													<span>Pellentesque habitant morbi 
-													tristique senectus ?</span>
+													<span>How will a well-designed website help my business?
+                                                    </span>
 												</button>
                                             </h2>
                                             <div id="collapse13" class="accordion-collapse collapse" aria-labelledby="heading13" data-bs-parent="#accordionExample_31">
                                                 <div class="accordion-body ">
                                                     <div class="bi-faq-text">
-                                                        Lorem ipsum dolor sit amet consectetur. Vel velit tincidunt adipiscing mauri tincidunt nunc et. Tincidunt lectus massa gravida sit placerat. Fermentum morbi viverra accumsan vitae.
+                                                    A well-designed website enhances user experience, leading to higher conversions. An aesthetically pleasing and well-structured site attracts and retains visitors, drawing in more potential customers and setting the stage for business success.
+
                                                     </div>
                                                 </div>
                                             </div>

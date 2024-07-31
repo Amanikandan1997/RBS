@@ -6176,11 +6176,11 @@ textarea:hover {
 
 .home-4 {
     background-color: #1b1c35;
-    color: rgba(255, 255, 255, .7)
+    color: rgba(0, 0, 0, 0.7)
 }
 
 .bi-btn-4 a {
-    color: #fff;
+    color: #000000;
     z-index: 1;
     overflow: hidden;
     font-weight: 600;
@@ -6225,7 +6225,7 @@ textarea:hover {
 }
 
 .bi-section-title-4 h2 {
-    color: #fff;
+    color: #000000;
     font-size: 62px;
     font-weight: 700
 }

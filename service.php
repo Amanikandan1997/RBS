@@ -27,7 +27,7 @@
                     <div class="col-lg-12">
                         <div class="bi-service-details-text-area">
                             <div class="bi-service-details-img">
-                            <img src="assets/img/service/seo.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;">
+                            <img src="assets/img/service/service.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;">
                             </div>
                             <div class="bi-service-details-text headline pera-content">
                                 <h3>Services</h3>

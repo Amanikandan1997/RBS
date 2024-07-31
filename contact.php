@@ -31,7 +31,7 @@
                             </div>
                             <div class="inner-text headline pera-content">
                                 <h3>Email Address</h3>
-                                <a href="#">info@rajzbusiness.com</a>
+                                <a href="mailto:info@rajzbusiness.com">info@rajzbusiness.com</a>
                                 
                             </div>
                         </div>
@@ -44,7 +44,7 @@
                             </div>
                             <div class="inner-text headline pera-content">
                                 <h3>Phone Number</h3>
-                                <a href="#"> +91 86103 16677</a>
+                                <a href="tel:+918610316677"> +91 86103 16677</a>
                                 
                             </div>
                         </div>
@@ -57,7 +57,7 @@
                             </div>
                             <div class="inner-text headline pera-content">
                                 <h3>Location / Address</h3>
-                                <a href="#">3rd Floor,AKSHAYA HQ, OMR, Kazhipattur,Siruseri,Tamil Nadu 603103,</a>
+                                <a href="https://g.co/kgs/9RokmtV">3rd Floor,AKSHAYA HQ, OMR, Kazhipattur,Siruseri,Tamil Nadu </a>
                                 
                             </div>
                         </div>
@@ -75,48 +75,48 @@
         <div class="bi-contact-map">
             <div class="bi-contact-map-content d-flex flex-wrap">
                 <div class="google-map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.4966811916415!2d80.22590427473152!3d12.811149087489673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525b35398a30df%3A0xf3a7c46421974e3!2sRajz%20Krishna%20Business%20Services%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1722253270721!5m2!1sen!2sin" width="1400" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.4966811916415!2d80.22590427473152!3d12.811149087489673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525b35398a30df%3A0xf3a7c46421974e3!2sRajz%20Krishna%20Business%20Services%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1722253270721!5m2!1sen!2sin" width="500" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 				</iframe>
                 </div>
-                <div class="bi-team-details-contact-info headline pera-content text-center">
-    <div class="bi-team-details-contact-title">
-        <div class="bi-section-title-1 headline pera-content">
-            <div class="bi-subtitle text-uppercase wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1000ms">
-                Welcome Creative Agency
-            </div>
-            <h2 class="headline-title">
-                Keep In Touch
-            </h2>
-        </div>
-        <p>In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl tempus lobortis.</p>
-        <div class="bi-team-details-contact-form">
-            <form action="sendmail.php" method="post">
-                <div class="row">
-                    <div class="col-md-6 mb-3">
-                        <input type="text" class="form-control" name="name" placeholder="First Name">
-                    </div>
-                    <div class="col-md-6 mb-3">
-                        <input type="text" class="form-control" name="Email" placeholder="Email">
-                    </div>
-                    <div class="col-md-6 mb-3">
-                        <input type="text" class="form-control" name="phone" placeholder="Phone No.">
-                    </div>
-                    <div class="col-md-6 mb-3">
-                        <input type="text" class="form-control" name="subject" placeholder="Subject">
-                    </div>
-                    <div class="col-md-12 mb-3">
-                        <textarea class="form-control" name="message" placeholder="Your Message"></textarea>
-                    </div>
-                    <div class="col-md-12">
-                        <div class="bi-submit-btn">
-                            <button type="submit" class="btn btn-primary btn-block">Send messages</button>
+                <div class="bi-team-details-contact-info headline pera-content">
+                    <div class="bi-team-details-contact-title">
+                        <div class="bi-section-title-1 headline pera-content">
+                            <div class="bi-subtitle text-uppercase wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1000ms">
+                                Welcome Creative Agency
+                            </div>
+                            <h2 class="headline-title">
+                                Keep In Touch
+                            </h2>
+                        </div>
+                        <p>In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl tempus lobortis.</p>
+                        <div class="bi-team-details-contact-form">
+                            <form action="sendmail.php" method="post">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <input type="text" name="name" placeholder="First Name">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="text" name="Email" placeholder="Email">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="text" name="phone" placeholder="Phone No.">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="text" name="subject" placeholder="Subject">
+                                    </div>
+                                    <div class="col-md-12">
+                                        <textarea name="message" placeholder="Your Message"></textarea>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="bi-submit-btn">
+                                            <button type="submit">Send messages</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
                         </div>
                     </div>
                 </div>
-            </form>
-        </div>
-    </div>
-</div>
             </div>
         </div>
     </section>
