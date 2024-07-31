@@ -96,10 +96,10 @@
                 <div class="bi-footer-social-content ul-li">
                     <ul>
                        
-                        <li><a href="https://www.linkedin.com/in/rajz-business-services-pvt-ltd/"><i class="fab fa-linkedin-in"></i> Linked In    </a></li>
-                        <li><a href="https://www.facebook.com/rajzbusiness"><i class="fab fa-facebook-f"></i> Facebook  </a></li>
-                        <li><a href="#"><i class="fab fa-instagram"></i> Instagram  </a></li>
-                        <li><a href="https://www.youtube.com/channel/UCqjyu6wzBD56FzOGKDx0W3Q"><i class="fab fa-youtube"></i> Youtube </a></li>
+                        <li><a href="https://www.linkedin.com/in/rajz-business-services-pvt-ltd/" target="_blank" ><i class="fab fa-linkedin-in"></i> Linked In    </a></li>
+                        <li><a href="https://www.facebook.com/rajzbusiness" target="_blank"><i class="fab fa-facebook-f"></i> Facebook  </a></li>
+                        <li><a href="https://www.instagram.com/rajzbusiness/?hl=en" target="_blank"><i class="fab fa-instagram"></i> Instagram  </a></li>
+                        <li><a href="https://www.youtube.com/channel/UCqjyu6wzBD56FzOGKDx0W3Q" target="_blank"><i class="fab fa-youtube"></i> Youtube </a></li>
                     </ul>
                 </div>
             </div>

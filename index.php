@@ -931,7 +931,7 @@
                         <div class="bi-blog-item-4 position-relative">
                             <div class="blog-img position-relative">
                                 <img src="assets/img/blog/blg1.png" alt="">
-                                <span class="blog-meta position-absolute"><a href="#">18 April, 2023</a></span>
+                                <span class="blog-meta position-absolute"><a href="#">13 Jul, 2024</a></span>
                             </div>
                             <div class="blog-text headline pera-content">
                                 <h3><a href="blog-single.html">Basic Rule of Running Web</a></h3>
@@ -956,7 +956,7 @@
                         <div class="bi-blog-item-4 position-relative">
                             <div class="blog-img position-relative">
                                 <img src="assets/img/blog/blg2.png" alt="">
-                                <span class="blog-meta position-absolute"><a href="#">18 April, 2023</a></span>
+                                <span class="blog-meta position-absolute"><a href="#">18 Jun, 2024</a></span>
                             </div>
                             <div class="blog-text headline pera-content">
                                 <h3><a href="blog-single.html">UX Checklists for UI Desin</a></h3>
@@ -981,7 +981,7 @@
                         <div class="bi-blog-item-4 position-relative">
                             <div class="blog-img position-relative">
                                 <img src="assets/img/blog/blg3.png" alt="">
-                                <span class="blog-meta position-absolute"><a href="#">18 April, 2023</a></span>
+                                <span class="blog-meta position-absolute"><a href="#">21 Jun, 2024</a></span>
                             </div>
                             <div class="blog-text headline pera-content">
                                 <h3><a href="blog-single.html">A Designers UI/UX Comple</a></h3>

@@ -71,10 +71,10 @@
 
     <!-- Start of contact Form section
 	============================================= -->
-    <section id="bi-contact-form" class="bi-contact-form-section" style="background-color:white">
+    <section id="bi-contact-form" class="bi-contact-form-section" style="background-color:white; padding:32px;">
         <div class="bi-contact-map">
             <div class="bi-contact-map-content d-flex flex-wrap">
-                <div class="google-map">
+                <div class="google-map" >
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.4966811916415!2d80.22590427473152!3d12.811149087489673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525b35398a30df%3A0xf3a7c46421974e3!2sRajz%20Krishna%20Business%20Services%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1722253270721!5m2!1sen!2sin" width="500" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 				</iframe>
                 </div>
